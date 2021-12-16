@@ -1,0 +1,2 @@
+Prefix plugins/GPURiemann/example
+Plugin GPURiemann inputfile number.txt outputfile none
